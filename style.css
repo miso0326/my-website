@@ -112,3 +112,9 @@ footer {
   height: 100%;
   background: #e5e5e5;
 }
+
+.bannerImage {
+  width: 100%;
+  height: auto;
+  display: block;
+}
